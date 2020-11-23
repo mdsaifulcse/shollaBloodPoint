@@ -1,0 +1,1 @@
+{{Form::select('storage_branch_id',$storageBranches,[],['class'=>'form-control','placeholder'=>'Select Branch',])}}
